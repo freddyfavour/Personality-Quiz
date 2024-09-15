@@ -1,6 +1,7 @@
 # Personality Quiz Website
 
 ![preview image of website](./src/assets/preview.png)
+
 A React-based personality quiz website that determines a user’s element based on their answers to a series of quiz questions. The site then fetches and displays a piece of artwork related to the user’s element from the Met Museum API.
 
 ## Features
